@@ -42,6 +42,7 @@ Performed some exploratory data analysis to find some information about key ques
 ### Data Analysis
 To find the key answer to the question, we have created the pivot table and analyzed the data thereby arranging the data properly in rows, columns, and values accordingly as shown in the below screenshot.
 
+![PivotTable Image](Roda%20Accident%20Pivot%20Table.png)
 
 ### Results/Findings
 
